@@ -1,6 +1,6 @@
 # Linkedin_Scraper
 
-
+### Web scraping
 
 Web scraping is the process of using bots to extract content and data from a website.
 
